@@ -1,3 +1,6 @@
+* Mon Aug 24 2026 Steven Pritchard <steve@sicura.us> - 7.0.1
+- [puppetsync] Update metadata.json dependency ranges from the Forge
+
 * Thu Jul 30 2026 Steven Pritchard <steve@sicura.us> - 7.0.0
 - BREAKING CHANGE: (#351) Correct `Simplib::Hostname` so that it enforces the
   host name restrictions of RFC 1123, Section 2.1. The highest-level label may
